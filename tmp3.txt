@@ -1,0 +1,65 @@
+commit 575503f4431ef16075d3bcf508e4c80ad52bd866
+Author: Leslie <12lh22@queensu.ca>
+Date:   Wed Feb 22 10:01:22 2017 -0500
+
+    both mars and pluto updated
+
+diff --git a/mars.txt b/mars.txt
+index de6b9d3..8fde7c9 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -1,3 +1,4 @@
+ Cold and dry, but everything is my favourite colour
+ The two moons may be a problem for Wolfman
+ Mommy will appreciate the lack of humidity
++Summary: mars is great!
+diff --git a/pluto.txt b/pluto.txt
+new file mode 100644
+index 0000000..03c20f8
+--- /dev/null
++++ b/pluto.txt
+@@ -0,0 +1 @@
++Pluto will be studied very soon.
+
+commit c509cb819dbd8eaf43ee78f8c547233e31be007b
+Author: Leslie <12lh22@queensu.ca>
+Date:   Wed Feb 22 09:54:54 2017 -0500
+
+    about mommy
+
+diff --git a/mars.txt b/mars.txt
+index 8f7b000..de6b9d3 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -1,2 +1,3 @@
+ Cold and dry, but everything is my favourite colour
+ The two moons may be a problem for Wolfman
++Mommy will appreciate the lack of humidity
+
+commit d0658f326760058caada411244108a06d0483296
+Author: Leslie <12lh22@queensu.ca>
+Date:   Wed Feb 22 09:45:58 2017 -0500
+
+    about two moons
+
+diff --git a/mars.txt b/mars.txt
+index 382ccd9..8f7b000 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -1 +1,2 @@
+ Cold and dry, but everything is my favourite colour
++The two moons may be a problem for Wolfman
+
+commit 4bcd666f4f24d0cc11bdd10be39bf08f61668e01
+Author: Leslie <12lh22@queensu.ca>
+Date:   Wed Feb 22 09:36:16 2017 -0500
+
+    file mars.txt is generated
+
+diff --git a/mars.txt b/mars.txt
+new file mode 100644
+index 0000000..382ccd9
+--- /dev/null
++++ b/mars.txt
+@@ -0,0 +1 @@
++Cold and dry, but everything is my favourite colour
