@@ -1,0 +1,5 @@
+touch hellohi.txt
+echo "This is fun is it not" >> hellohi.txt
+cat hellohi.txt
+git add hellohi.txt
+git commit -m "testing this bad boy out"
